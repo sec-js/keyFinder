@@ -85,12 +85,6 @@ git clone https://github.com/momenbasel/keyFinder.git
 2. Enable **Developer mode**
 3. Click **Load unpacked** and select the `keyFinder` folder
 
-<img src="https://github.com/momenbasel/keyFinder/blob/master/installGif.gif?raw=true" alt="Installation demo"/>
-
-## Demo
-
-![Demo of KeyFinder](https://github.com/momenbasel/keyFinder/blob/master/demoGif.gif?raw=true)
-
 ## Usage
 
 1. **Install** the extension
